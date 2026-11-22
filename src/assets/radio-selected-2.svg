@@ -1,0 +1,15 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="40" height="51.1524" viewBox="0 0 40 51.1524" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Selection Controls/1. Checkboxes/1. Selected/2. Hover">
+<g id="&#240;&#159;&#147;&#141;Icon">
+</g>
+<g id="Object">
+<mask id="mask0_0_137" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="10" y="12" width="20" height="27">
+<path id="&#240;&#159;&#147;&#141;Icon_2" d="M20 12.7881C14.48 12.7881 10 18.5172 10 25.5762C10 32.6352 14.48 38.3643 20 38.3643C25.52 38.3643 30 32.6352 30 25.5762C30 18.5172 25.52 12.7881 20 12.7881ZM20 35.8067C15.58 35.8067 12 31.2285 12 25.5762C12 19.9239 15.58 15.3457 20 15.3457C24.42 15.3457 28 19.9239 28 25.5762C28 31.2285 24.42 35.8067 20 35.8067ZM25 25.5762C25 29.1075 22.7614 31.9703 20 31.9703C17.2386 31.9703 15 29.1075 15 25.5762C15 22.0449 17.2386 19.1822 20 19.1822C22.7614 19.1822 25 22.0449 25 25.5762Z" fill-rule="evenodd" clip-rule="evenodd" fill="white"/>
+</mask>
+<g mask="url(#mask0_0_137)">
+<rect id="&#240;&#159;&#142;&#168; Color" x="8" y="10.2305" width="24" height="30.6915" fill="#6200EE"/>
+</g>
+</g>
+<path id="&#240;&#159;&#146;&#161;States" d="M20 51.1524C31.0457 51.1524 40 39.7016 40 25.5762C40 11.4509 31.0457 0 20 0C8.9543 0 0 11.4509 0 25.5762C0 39.7016 8.9543 51.1524 20 51.1524Z" fill-rule="evenodd" clip-rule="evenodd" fill="#6200EE" fill-opacity="0.04"/>
+</g>
+</svg>
