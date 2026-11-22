@@ -22,13 +22,3 @@ Dự án Capstone ReactJS **Shoes Shop** theo chuẩn thiết kế Figma và Swa
 ## 3. Tài khoản dùng thử (Test Account)
 - **Email**: `capstone_test_998877@gmail.com`
 - **Password**: `Capstone@123`
-
-## 4. Hướng dẫn cài đặt & chạy dự án
-```bash
-npm install
-npm run dev
-```
-Build production:
-```bash
-npm run build
-```
